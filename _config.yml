@@ -1,0 +1,31 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://kelvinromero.github.io
+baseurl: /
+title: Kelvin Romero
+email: kelvinromero@gmail.com
+author: Kelvin Romero Meira de Oliveira Cordeiro
+description: >
+  Kelvin Romero Meira de Oliveira Cordeiro.
+copyright: 'Copyright &copy; 2018 Kelvin Romero. All Rights Reserved.'
+credits: 
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: github
+    url: https://github.com/kelvinromero
+  - title: linkedin
+    url: https://linkedin.com/in/kelvinromero
