@@ -1,22 +1,20 @@
-<!-- Footer -->
-<footer>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-8">
-                <ul class="list-inline">
-                  Site Map:
-                  {% for page in site.pages %}
-                    <li>
-                        <a href="{{ page.url }}">{{ page.title }}</a>
-                    </li>
-                  {% endfor %}
-
-                </ul>
-                <p class="copyright text-muted small">{{ site.copyright }}</p>
-            </div>
-            <div class="col-md-4">
-                {{ site.credits }}
-            </div>
+<footer class="footer">
+    <div class="container text-center">
+        <p>Follow us on</p>
+        <div class="social-icons">
+            <a href="https://instagram.com" target="_blank" aria-label="Instagram">
+                <i class="fab fa-instagram"></i>
+            </a>
+            <a href="https://youtube.com" target="_blank" aria-label="YouTube">
+                <i class="fab fa-youtube"></i>
+            </a>
+            <a href="https://linkedin.com" target="_blank" aria-label="LinkedIn">
+                <i class="fab fa-linkedin"></i>
+            </a>
+            <a href="https://reddit.com" target="_blank" aria-label="Reddit">
+                <i class="fab fa-reddit"></i>
+            </a>
         </div>
+        <p class="copyright small">{{ site.copyright }}</p>
     </div>
 </footer>
