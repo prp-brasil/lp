@@ -10,7 +10,13 @@ author: Kelvin Romero
 description: >
   Kelvin Romero
 copyright: 'Build with 💪 by PRP 2025'
-credits: 
+credits:
+
+# ----------------------- #
+#      Site Settings      #
+# ----------------------- #
+sass:
+  style: compact
 
 # ----------------------- #
 #    Jekyll & Plugins     #
