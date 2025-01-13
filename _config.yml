@@ -2,13 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://kelvinromero.github.io
-baseurl: /
-title: Kelvin Romero
+url: https://prp-brasil.github.io/
+baseurl: /lp/
+title: Desenvolvimento Pessoal
 email: kelvinromero@gmail.com
-author: Kelvin Romero Meira de Oliveira Cordeiro
+author: Kelvin Romero
 description: >
-  Kelvin Romero Meira de Oliveira Cordeiro.
+  Kelvin Romero
 copyright: 'Build with 💪 by PRP 2025'
 credits: 
 
