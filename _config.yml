@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://prp-brasil.github.io/
-baseurl: /lp/
+url: https://prp-brasil.github.io
+baseurl : /
 title: Desenvolvimento Pessoal
 email: kelvinromero@gmail.com
 author: Kelvin Romero
